@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Password Vault and Manager Premium",
+    "slug": "snack-0ec39c1f-83ea-43ef-82ac-cc1e6d4a8bd2",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/l.png",
+    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 3,
+
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+       
+      },
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-2869778949274607~2142747064"
+      },
+      "package": "com.sushil_dev.pwdmanager"
+
+    },
+    "web": {
+    }
+  }
+}
